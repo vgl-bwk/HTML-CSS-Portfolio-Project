@@ -1,8 +1,24 @@
-/**
- * Add your custom styles below
- * 
- * Remember: 
- * - Be organised, use comments and separate your styles into meaningful chunks
- *    for example: General styles, Navigation styles, Hero styles, Footer etc.
- * 
- */
+body {
+  background-color: #00090d;
+}
+
+header p {
+  color: #79d0f2;
+  margin-left: 15%;
+  margin-right: 30px;
+}
+
+header h1 {
+  color: #8df2f2;
+  margin-left: 15%;
+  margin-right: 30px;
+}
+#profile-pic {
+  margin-left: 10%;
+}
+.greeting-card {
+  background-color: #0d1f26;
+  padding: 100px;
+  margin-top: 25%;
+  display: flex;
+}
